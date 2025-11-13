@@ -17,8 +17,8 @@ public enum JobType implements CodeEnum {
     PUBLICWORKER(4, "公務員"),
     /** 民間団体 */
     NGO(5, "民間団体"),
-    /** 主婦 */
-    HOUSEWIFE(6, "主婦"),
+    /** 主婦/主夫 */
+    HOUSEWIFE(6, "主婦/主夫"),
     /** 学生 */
     STUDENT(7, "学生"),
     /** 年金受給 */
